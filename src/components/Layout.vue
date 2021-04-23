@@ -2,7 +2,7 @@
   <div class="main_layout">
           <v-row align="center" justify="center" style="height: 100vh">
             <v-col cols="10">
-                    <v-card style="padding: 0" color="white" height="670" width="100%">
+                    <v-card style="padding: 0" color="white" height="100%" width="100%">
                         <v-card-text>
                             <v-row justify="center" align="center">
                                 <v-col cols="5">
